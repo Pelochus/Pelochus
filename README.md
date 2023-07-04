@@ -1,6 +1,8 @@
 ## About me
 I am a last year Computer Science student, specializing in Computer Engineering. My main interests are low-level and embedded systems programming, Linux server administration, electronics and cybersecurity.
 
+My favourite programming languages are ```C```, ```C++``` and ```Bash```, but I'm also knowledgeable about ```Java```, ```Python``` and, to some extent, ```HTML```, ```CSS``` and ```SQL```
+
 ## About my projects
 Some of my most featured projects:
 - **[Rockobot](https://github.com/Pelochus/rockobot):** Battlebot made for a college subject. 3D design and printed, designed a PCB for it and programmed it with an Arduino NANO. Won the class tournament
