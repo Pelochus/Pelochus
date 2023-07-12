@@ -1,3 +1,13 @@
+<div id="pfp" align="center">
+  <img style="width:20%; height:20%" src="https://raw.githubusercontent.com/Pelochus/Pelochus/main/img/bananajoe.jpg">
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/angel-hurtado-flores/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pelochus&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</div>
+
 ## About me
 I am a last year Computer Science student, specializing in Computer Engineering. My main interests are low-level and embedded systems programming, Linux server administration, electronics and cybersecurity.
 
@@ -10,10 +20,11 @@ Some of my most featured projects:
 - **[LUSA](https://github.com/Pelochus/LUSA):** Embedded system for my father's car. Designed a PCB and programmed an Arduino NANO for controlling an ultrasonic sensor and buzzer to alert drivers of collisions 
 - **[RPi-Fan-Driver](https://github.com/Pelochus/RPi-Fan-Driver):** Fan driver for any Raspberry Pi. Controls fan speed depending on SoC's temperature
 
-## Some stats
-![Pelochus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Pelochus&show_icons=true&theme=vision-friendly-dark)
+## My stats
+<!-- Remove -sigma-five from this links to use the updated link version. Non sigma-five branch does not work currently -->
+![Pelochus' GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pelochus&show_icons=true&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pelochus&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pelochus&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### TODO
 https://www.sitepoint.com/github-profile-readme/
