@@ -9,7 +9,7 @@
 </div>
 
 ## About me
-I am a last year Computer Science student, specializing in Computer Engineering. My main interests are low-level and embedded systems programming, Linux server administration, electronics and cybersecurity.
+I am a last year Computer Science student, specialized in Computer Engineering. My main interests are low-level and embedded systems programming, Linux server administration, electronics and cybersecurity.
 
 My favourite programming languages are ```C```, ```C++``` and ```Bash```, but I'm also knowledgeable about ```Java```, ```Python``` and, to some extent, ```HTML```, ```CSS``` and ```SQL```
 
@@ -19,6 +19,10 @@ Some of my most featured projects:
 - **[pelochus-homelab](https://github.com/Pelochus/pelochus-homelab):** Programming and scripting of my personal home server with Linux for easy and automated deployment
 - **[LUSA](https://github.com/Pelochus/LUSA):** Embedded system for my father's car. Designed a PCB and programmed an Arduino NANO for controlling an ultrasonic sensor and buzzer to alert drivers of collisions 
 - **[RPi-Fan-Driver](https://github.com/Pelochus/RPi-Fan-Driver):** Fan driver for any Raspberry Pi. Controls fan speed depending on SoC's temperature
+
+Here you can find my Bachelor's thesis:
+- **[bt-crazyflies](https://github.com/Pelochus/bt-crazyflies):** Control and Coordination of Crazyflie Drones based on the Paparazzi UAV project.
+
 
 ## My stats
 <!-- Remove -sigma-five from this links to use the updated link version. Non sigma-five branch does not work currently -->
