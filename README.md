@@ -11,7 +11,7 @@
 ## About me
 I am a last year Computer Science student, specialized in Computer Engineering. My main interests are low-level and embedded systems programming, Linux server administration, electronics and cybersecurity.
 
-My favourite programming languages are ```C```, ```C++``` and ```Bash```, but I'm also knowledgeable about ```Java```, ```Python``` and, to some extent, ```HTML```, ```CSS``` and ```SQL```
+My favourite programming languages are ```C```, ```C++``` and ```Bash```, but I'm also knowledgeable about ```Rust```, ```Python``` and, to some extent, ```Java``` and ```SQL```
 
 ## About my projects
 Some of my most featured projects:
@@ -26,9 +26,11 @@ Here you can find my Bachelor's thesis:
 
 ## My stats
 <!-- Remove -sigma-five from this links to use the updated link version. Non sigma-five branch does not work currently -->
-![Pelochus' GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pelochus&show_icons=true&theme=vision-friendly-dark)
+<!-- ![Pelochus' GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pelochus&show_icons=true&theme=vision-friendly-dark) -->
+<!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pelochus&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pelochus&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Pelochus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Pelochus&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pelochus&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### TODO
 https://www.sitepoint.com/github-profile-readme/
