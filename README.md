@@ -15,9 +15,9 @@ My favourite programming languages are ```C```, ```C++``` and ```Bash```, but I'
 
 ## About my projects
 Some of my most featured projects:
-- **[Rockobot](https://github.com/Pelochus/rockobot):** Battlebot made for a college subject. 3D design and printed, designed a PCB for it and programmed it with an Arduino NANO. Won the class tournament
-- **[pelochus-homelab](https://github.com/Pelochus/pelochus-homelab):** Programming and scripting of my personal home server with Linux for easy and automated deployment
-- **[LUSA](https://github.com/Pelochus/LUSA):** Embedded system for my father's car. Designed a PCB and programmed an Arduino NANO for controlling an ultrasonic sensor and buzzer to alert drivers of collisions 
+- **[Rockobot](https://github.com/Pelochus/rockobot):** Battlebot made for a college subject. 3D design and printed, designed a PCB for it and programmed it with an Arduino NANO. Featured on the [Arduino blog](https://blog.arduino.cc/2023/09/29/can-you-smell-what-the-rockobot-is-cooking/)
+- **[pelochus-homelab](https://github.com/Pelochus/pelochus-homelab):** Programming and scripting of my personal home server with Linux for easy and automated deployment with Ansible and Docker
+- **[LUSA](https://github.com/Pelochus/LUSA):** Embedded system for my father's car. Designed a PCB and programmed an Arduino NANO for controlling an ultrasonic sensor and buzzer to alert the car's driver of collisions
 - **[RPi-Fan-Driver](https://github.com/Pelochus/RPi-Fan-Driver):** Fan driver for any Raspberry Pi. Controls fan speed depending on SoC's temperature
 
 Here you can find my Bachelor's thesis:
