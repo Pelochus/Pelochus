@@ -9,7 +9,7 @@
 </div>
 
 ## About me
-I am a last year Computer Science student, specialized in Computer Engineering. My main interests are low-level and embedded systems programming, Linux server administration, electronics and cybersecurity.
+Computer Scientist and Engineer. My main interests are low-level and embedded systems programming, Linux server administration (including DevOps) and electronics. I also enjoy cybersecurity, though to a lesser extent.
 
 My favourite programming languages are ```C```, ```C++``` and ```Bash```, but I'm also knowledgeable about ```Rust```, ```Python``` and, to some extent, ```Java``` and ```SQL```
 
