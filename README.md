@@ -1,7 +1,14 @@
+<!---
+Badges created with shields.io
+-->
+
 <div id="pfp" align="center">
   <img style="width:20%; height:20%" src="https://raw.githubusercontent.com/Pelochus/Pelochus/main/img/bananajoe.jpg">
 </div>
 <div id="badges" align="center">
+  <a href="https://pelochus.duckdns.org">
+    <img src="https://img.shields.io/badge/Website-pelochus.duckdns.org-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/angel-hurtado-flores/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,7 +24,7 @@ My favourite programming languages are ```C```, ```C++``` and ```Bash```, but I'
 Some of my most featured projects:
 - **[ezrknpu](https://github.com/Pelochus/ezrknpu):** Automated configuration and installation of libraries needed to use the NPU found in the Rockchip's SoCs. Focusing currently on the RK3588, which is found on SBCs like the Orange Pi 5 or Radxa Rock 5B which are capable of accelerating ChatGPT-like LLMs or running diverse AI applications like image recognition with minimal power consumption.
 - **[Rockobot](https://github.com/Pelochus/rockobot):** Battlebot made for a college subject. 3D design and printed, designed a PCB for it and programmed it with an Arduino NANO. Featured on the [Arduino blog](https://blog.arduino.cc/2023/09/29/can-you-smell-what-the-rockobot-is-cooking/)
-- **[pelochus-homelab](https://github.com/Pelochus/pelochus-homelab):** Applying DevOps techniques to my personal home server with Linux for easy and automated deployment with Ansible and Docker
+- **[pelochus-homelab](https://github.com/Pelochus/pelochus-homelab):** Applying DevOps techniques to my personal home server with Linux for easy and automated deployment with Ansible and Docker. It also hosts my personal [webpage](https://pelochus.duckdns.org)
 - **[LUSA](https://github.com/Pelochus/LUSA):** Embedded system for my father's car. Designed a PCB and programmed an Arduino NANO for controlling an ultrasonic sensor and buzzer to alert the car's driver of collisions
 
 Here you can find my Bachelor's thesis:
